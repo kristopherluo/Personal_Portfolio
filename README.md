@@ -1,6 +1,5 @@
 # Personal_Portfolio
-Kristopher Luo's personal portfolio
 
-[Link](kristopherluo.vercel.app)
+Clink [here](kristopherluo.vercel.app) to go to my personal portfolio!
 
-Take a look at my personal portfolio!
+- Coded using Javascript and React
