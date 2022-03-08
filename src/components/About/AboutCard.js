@@ -13,12 +13,13 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             <br />
             Hi there! I am <span className="purple">Kristopher Luo </span>
-            from Clemson, South Carolina.
-            <br />I am a junior pursuing a Bachelor of Science in Computer Science with a minor in Business Management at Clemson University.
+            from Clemson, South Carolina. I am a junior pursuing a Bachelor of Science in Computer Science with a minor in Business Management at Clemson University.
             <br />
             <br />
-            I have always had a passion for technology. Throughtout my whole life I have been surrounded by technology that has advanced in countless ways.
-            The impact it has had on me is immeasurable, and I hope to contribute to it to help people all around the world.
+            I have always had a passion for technology, thus my interest in computer science. 
+            I specifically enjoy and have experience in machine learning and data analysis work, along with front-end development.
+            Throughout school, work, and personal projects, I have used languages, such as Python, C++, C, Java, Javascript, React, and Prolog.
+            I am eager to learn even more about software development, implement feedback, and work with a collaborative team.
             <br />
             <br />
             <Button variant="primary" href={pdf} target="_blank">
@@ -43,9 +44,15 @@ function AboutCard() {
               <ImPointRight /> Working out
             </li>
           </ul>
-          <br />
+                    <br />
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Always strive to learn more"{" "}
+            "Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. 
+            Together they are powerful beyond imagination.”
+            <br />
+            <br />
+            <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
+              - Albert Enstein
+            </p>
           </p>
         </blockquote>
       </Card.Body>
